@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T10:52:29.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="rt09xyP5sIEHTzWgjIU3" version="14.4.8" type="github"><diagram id="oEsWIfpRhFsl38PpemUn" name="Page-1">7Vnbjts2EP0aA81DDFGSJetxfUlbwAUWNdqkTwYt0hITShQo+pav71CirKu9G6ydtmi8CyzniNeZM0dD78iZJ6efJc7i3wShfGRb5DRyFiPbRsgL4I9GziXi2U4JRJKRErJqYM2+UjOyQveM0NxgJaSE4IplbTAUaUpD1cKwlOLY7rYTnLSADEe0B6xDzPvoR0ZU3D2XfvALZVFslp7afvkgwVVnc5I8xkQcG5CzHDlzKYQqW8lpTrl2XtsvH648vWxM0lS9ZsAhjfyptfHiP5Mv71fcD/zFH+/tcpYD5ntz4KePawDmXOyJ2bc6V87IBEtV4dDJDH5hvbk1msCTubbG9qQDdG2/DaC+pedoA13bbwOoOz3qrI+6G2wAPas1vdVZ32psEH6dmdgrzlI6v1DPAjCSmDAIyVxwIQFLRQrem8Uq4WAhaB5jpug6w6H26hHSBrCdSJUhP7Ir2zhezwrkyXQ7OUU6z8b4mLvjSIp9Viz5K9B/8OkGmptQB3ODudITKSm+0GpzI9uBnw+aMLMd47yz6QOVikEuPHEW6fmV0MthY3G6K2aEk7A0WhXWwrHM7oeWIDiPKTFHMsyDJejpKqXRJVFAYahIqJJn6FINCNxyiBEX19Uh18CxzlV/4pVY3EhTN/CrrtgoRHSZvk4iaJg8+oacQk4vcSgBUTGmkCoWkUgxX9boDIKVkotv6j4roX1e8OYzVepsSIL3SrRZBS6T509mfGH8pY2xO63sxan5dHFuWs9UMjg9la3g6G3fDg2cUuxlSG+4w3hDYRlRdaOfOxxqSTlW7NDex91j5vR0kCaY8eJtM9LC6hXZs5XQinSLMAzLuhZNwxinihKcZfk4FP2e+X77WcuDbf1UDoI5meL0Xb9rQvNcv48aXSGxFbh8oDNWCodxQrUiwwCWlCNDwTm03vU4OKhW1zL1ioo1NaLZva0qpnMr2yspWeEt5c8iZ4oVkrUVSonkRa0JYS+anE3Gv6SZOM/Kg+7YSe9jVry+qFweaPkWQ9eEtYj9xr6PSPleS6OQ6/QkSuuW3xcpe/oohXL/CYW6o6a4r9QUdCU030dU3H5xleCvQHvbWi/Xr0vQRyfRAP+dca4r7m6yL4In30XXtaFXWVjF5z5JZDtBO4tQP4v8oHqlN5MocB6VRNaN8PZLgHvIb8/Fu+JzQ5hfRZ+EEcKH6r0Lr24x6KVy1upIM6prRl0vXtPgTAqyD1VZ2c6ywRI3d+4k0ZMOu6xgoJCcWn12Ict6EL3syX9co1F1XX9RpKdvFOli6JOU+NzoYO6q9czPGqhj7nnTdsy9zvX5hf5OMOnEuNxBHfHLUd5AAu9/QwLrjSR4m5ajvpYX34OscLIl+IeYfwcx56Wr7yLortcpuv8Fgo78HsfQGOzfaa6da8/1CaUI4Q6opzLXufYtD+f1Da8ckeMDrW6puuro3hKvI4QduhBEMq0wW+9tbWbX91W9fErqK2m16uKc4kQsLpOAc5rzNODWip2MglirTmU6dKcc+JKq83VUl/aXfBiidlsq70E81CYe5G6PdigYKFOnD6Pd9HqZWofuh749XN9I4WyyfUzJ6rjodfqGvp1oYNb/pihLm/qfPc7ybw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-13T10:57:43.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="pKKrTFVYM7_mFBhdJELn" version="14.4.8" type="github">
+  <diagram id="oEsWIfpRhFsl38PpemUn" name="Page-1">
+    <mxGraphModel dx="1375" dy="733" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vng780_6hVmk-Ll797DU-2" value="AWS Cloud" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud_alt;strokeColor=#232F3E;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#232F3E;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="249" y="44" width="756" height="497.5" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.48;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vng780_6hVmk-Ll797DU-3" target="vng780_6hVmk-Ll797DU-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-3" value="email to &lt;br&gt;diary@enchantedapps.co&lt;br&gt;subject (diary title)&lt;br&gt;message (diary content)&lt;br&gt;attachments (image collage)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.email_2;" parent="1" vertex="1">
+          <mxGeometry x="98" y="142" width="44.57" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vng780_6hVmk-Ll797DU-4" target="vng780_6hVmk-Ll797DU-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-4" value="Amazon SES" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ses;fillColor=#D9A741;gradientColor=none;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="294" y="112.5" width="79.5" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-10" value="Amazon S3" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="814" y="109" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vng780_6hVmk-Ll797DU-11" target="vng780_6hVmk-Ll797DU-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="723" y="159.5" />
+              <mxPoint x="723" y="394.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vng780_6hVmk-Ll797DU-11" target="vng780_6hVmk-Ll797DU-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-11" value="AWS Lambda" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" parent="1" vertex="1">
+          <mxGeometry x="521" y="109" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-17" value="1. Resize, process image attachments as collage, save to S3&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span&gt;2. Save title and content to DynamoDB&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="471" y="231.5" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vng780_6hVmk-Ll797DU-18" value="Amazon DynamoDB" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" parent="1" vertex="1">
+          <mxGeometry x="814" y="340.5" width="80" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
