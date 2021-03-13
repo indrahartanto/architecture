@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-13T13:35:06.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="7XKfGUMI8cY0PqBHeOVg" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T13:35:18.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36 OPR/74.0.3911.203" etag="WOrMqVqLWbUCf344IMhI" version="14.4.8" type="github">
   <diagram id="oEsWIfpRhFsl38PpemUn" name="Page-1">
     <mxGraphModel dx="939" dy="684" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vng780_6hVmk-Ll797DU-3" value="email to &lt;br&gt;diary@indra.cc&lt;br&gt;subject (diary title)&lt;br&gt;message (diary content)&lt;br&gt;attachments (image collage)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.email_2;" parent="1" vertex="1">
-          <mxGeometry x="98" y="142" width="44.57" height="28" as="geometry" />
+          <mxGeometry x="98" y="143" width="44.57" height="28" as="geometry" />
         </mxCell>
         <mxCell id="vng780_6hVmk-Ll797DU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vng780_6hVmk-Ll797DU-4" target="vng780_6hVmk-Ll797DU-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
